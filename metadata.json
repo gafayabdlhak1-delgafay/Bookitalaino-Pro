@@ -1,0 +1,6 @@
+{
+  "name": "Italiano",
+  "description": "كتاب تفاعلي لتعلم اللغة الإيطالية مع فصول وصفحات مخصصة، لوحة تحكم لإضافة المحتوى، ومحرر أكواد HTML متطور للمعاينة الفورية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
